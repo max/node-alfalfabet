@@ -1,0 +1,32 @@
+{
+  "name": "node-alfalfabet",
+  "version": "1.0.0",
+  "description": "List of characters in the alphabet",
+  "license": "MIT",
+  "repository": "max/node-alfalfabet",
+  "author": {
+    "name": "Max Schoening",
+    "email": "mail@maximilian.io",
+    "url": "maximilian.io"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "node",
+    "alphabet",
+    "moduleitis",
+    "list",
+    "array",
+    "#blessed"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}
